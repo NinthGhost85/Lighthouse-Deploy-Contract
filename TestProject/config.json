@@ -1,0 +1,59 @@
+{
+    "mnemonic": "warfare miracle either bar unhappy eyebrow matter develop nature number water amazing",
+    "rpc": "https://rpc.sei-apis.com/",
+    "network": "pacific-1",
+    "name": "TestProject",
+    "symbol": "SEI",
+    "description": "TestProject description",
+    "supply": 1680,
+    "token_uri": "https://arweave.net/YFvg-XnW2TDN7UsPHmDhhGoKTOj8OO-oFOAh2VCfLpY",
+    "royalty_percent": 7,
+    "royalty_wallet": "sei1g33x79fqhhxfqtsh7dewdf37g59manm0579np9",
+    "iterated_uri": true,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+        {
+            "name": "O",
+            "merkle_root": "54d8097264cbb49d285bcdbc6918aec33ff86aa443f73999d1776e80aa55865a",
+            "max_tokens": 5,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei1yez8kwcngtxl99zqjnz4uqgt072wfuhwy932ga",
+                    "share": 50
+                },
+                {
+                    "address": "sei1g33x79fqhhxfqtsh7dewdf37g59manm0579np9",
+                    "share": 50
+                }
+            ],
+            "start_time": "2024-01-25T12:00:00Z",
+            "end_time": null
+        },
+        {
+            "name": "VIP",
+            "merkle_root": "21dd1cec13bddb5b674ad21c5fd9163c144b3875d97c284b64abe3722b0ea92e",
+            "max_tokens": 1,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei1yez8kwcngtxl99zqjnz4uqgt072wfuhwy932ga",
+                    "share": 50
+                },
+                {
+                    "address": "sei1g33x79fqhhxfqtsh7dewdf37g59manm0579np9",
+                    "share": 50
+                }
+            ],
+            "start_time": "2024-01-25T12:00:00Z",
+            "end_time": "2024-01-25T12:05:00Z"
+        }
+        
+    ]
+}
+
+
+ 
